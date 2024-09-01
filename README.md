@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waleed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Cinemaapp Website Front-End**
+- 🔭 I’m currently working on **Cinemaapp Website**
 
 - 🌱 I’m currently learning **Node JS**
 
+- 📝 Intrest [Coding](Coding)
+
+- 💬 Ask me about **Any thing you can ask freely..**
+
 - 📫 How to reach me **nwaleed897@gmail.com**
+
+- ⚡ Fun fact **I'm having Intrest to make Good environment around Work Place**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
